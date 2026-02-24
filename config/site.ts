@@ -34,8 +34,8 @@ export const siteConfig = {
       "Com uma escuta sensível e um olhar atento para o universo infantil, a autora de Plumas de Cristal transforma experiências do cotidiano em contos poéticos, cheios de imaginação e aprendizado. Sua escrita convida adultos e crianças a compartilharem momentos de leitura afetiva, fortalecendo vínculos e despertando conversas importantes."
   },
   contact: {
-    email: "luteciassoares@gmail.com",
-    whatsapp: "https://wa.me/55033984068620",
+    email: "luteciasoares@gmail.com",
+    whatsapp: "https://wa.me/55033984098620",
     instagram: "https://www.instagram.com/luteciasoares/"
   }
 };
