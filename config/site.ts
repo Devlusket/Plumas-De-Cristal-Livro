@@ -6,7 +6,7 @@ import autoraImage from "@/app/images/autora.jpg";
 export const siteConfig = {
   book: {
     title: "Plumas de Cristal",
-    subtitle: "Contos delicados para corações curiosos.",
+    subtitle: "Contos delicados para corações pequeninos.",
     description:
       "Uma coletânea de contos infantis que acolhe, inspira e desperta a imaginação, com mensagens educativas que permanecem para toda a vida.",
     coverImage: capaImage,
