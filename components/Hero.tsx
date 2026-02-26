@@ -28,7 +28,7 @@ export function Hero({ book }: HeroProps) {
           className="space-y-6"
         >
           <p className="inline-flex items-center rounded-full bg-secondary px-4 py-1 text-xs font-medium uppercase tracking-[0.18em] text-muted-foreground/80">
-            Livro infantil para adultos que cuidam
+            Ler é viajar sem sair do lugar!
           </p>
           <div className="space-y-4">
             <h1 className="text-3xl font-semibold leading-tight text-foreground md:text-5xl">
